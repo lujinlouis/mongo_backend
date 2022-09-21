@@ -1,0 +1,6 @@
+20220916	19:48:21	590ff617-7781-4acc-908c-637c98a194f3	TypeError	fsPromises.readFil is not a function
+20220919	10:51:36	fcabbb56-0314-43b3-8b44-b65792233ea6	Error: Not allowed by CORS
+20220919	14:43:35	e8cf4efe-9a10-4601-9173-13a40cf849d7	SyntaxError: Unexpected token f in JSON at position 11
+20220919	16:10:08	11edf7b0-0642-4e90-8b5b-6c59e9289134	TypeError: res.statu is not a function
+20220920	11:14:01	f94c5c4a-143f-483b-83cf-d22052b60777	Error: secretOrPrivateKey must have a value
+20220920	11:15:15	0da27b44-5392-44c0-9580-36facb91e73e	Error: secretOrPrivateKey must have a value
